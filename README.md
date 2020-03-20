@@ -1,6 +1,8 @@
 # grab_tn_covid
 Scrape COVID testing results for the state of Tennessee from the TN Department of Health web site.
 
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Function:
 
 * `grab_tn_covid()`
